@@ -13,6 +13,10 @@ Bu papka har bir mavzu oxiridagi **Masalalar** bo'limidagi mashqlarning to'liq y
 | Database | [`solutions/databases/`](./databases/) |
 | Networking | [`solutions/networking/`](./networking/) |
 | Encoding | [`solutions/encoding/`](./encoding/) |
+| DSA | [`solutions/dsa/`](./dsa/) |
+| CS Asoslari | [`solutions/cs-fundamentals/`](./cs-fundamentals/) |
+| DevOps | [`solutions/devops/`](./devops/) |
+| Testing | [`solutions/testing/`](./testing/) |
 
 Har bir yechim fayli o'ziga mos mavzu fayli bilan bir xil nomda (masalan, `frontend/03-javascript.md` masalalarining yechimi → `solutions/frontend/03-javascript.md`).
 

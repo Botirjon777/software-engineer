@@ -92,6 +92,52 @@ Ma'lumotni ifodalash va o'zgartirish — kodlash, sanoq sistemalari, hashing.
 | 03 | [Data Encoding](./encoding/03-data-encoding.md) | Base64, hex, URL encoding, encoding vs encryption |
 | 04 | [Hashing](./encoding/04-hashing.md) | Hash funksiyalar, SHA, HMAC, password hashing, collision |
 
+### 6. [DSA — Data Structures va Algoritmlar](./dsa/README.md)
+Texnik intervyuning yadrosi.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Complexity va Big-O](./dsa/01-complexity-big-o.md) | Time/space complexity, Big-O/Ω/Θ |
+| 02 | [Arrays va Strings](./dsa/02-arrays-strings.md) | Two pointers, sliding window |
+| 03 | [Linked Lists](./dsa/03-linked-lists.md) | Singly/doubly, fast & slow pointers |
+| 04 | [Stacks va Queues](./dsa/04-stacks-queues.md) | Stack, queue, deque, monotonic stack |
+| 05 | [Hash Tables va Sets](./dsa/05-hash-tables.md) | Hashing, collision, Map/Set |
+| 06 | [Trees va BST](./dsa/06-trees-bst.md) | Traversal, BST, balance |
+| 07 | [Heaps](./dsa/07-heaps.md) | Priority queue, top-K |
+| 08 | [Graphs](./dsa/08-graphs.md) | BFS, DFS, Dijkstra, topological sort |
+| 09 | [Sorting va Searching](./dsa/09-sorting-searching.md) | Merge/quick sort, binary search |
+| 10 | [Recursion va Backtracking](./dsa/10-recursion-backtracking.md) | Recursion, backtracking |
+| 11 | [Dynamic Programming](./dsa/11-dynamic-programming.md) | Memoization, tabulation |
+
+### 7. [CS Asoslari](./cs-fundamentals/README.md)
+Operatsion tizimlar, concurrency, memory.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Operatsion Tizimlar](./cs-fundamentals/01-operating-systems.md) | Process/thread, scheduling, virtual memory |
+| 02 | [Concurrency](./cs-fundamentals/02-concurrency.md) | Race condition, mutex, deadlock, async modellar |
+| 03 | [Memory Management](./cs-fundamentals/03-memory-management.md) | Stack vs heap, GC, memory leak |
+
+### 8. [DevOps va Asboblar](./devops/README.md)
+Git, Linux, Docker, CI/CD, Cloud.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Git](./devops/01-git.md) | Branching, merge/rebase, workflow |
+| 02 | [Linux va CLI](./devops/02-linux-cli.md) | Buyruqlar, fayl tizimi, process, permissions |
+| 03 | [Docker](./devops/03-docker.md) | Image, container, Dockerfile, compose |
+| 04 | [CI/CD](./devops/04-ci-cd.md) | Pipeline, automation, deployment |
+| 05 | [Cloud](./devops/05-cloud.md) | IaaS/PaaS/SaaS, serverless, scaling |
+| 06 | [Kubernetes](./devops/06-kubernetes.md) | Pod, deployment, service, orkestratsiya |
+
+### 9. [Testing](./testing/README.md)
+Kodni ishonchli qilish.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Testing Asoslari](./testing/01-testing-fundamentals.md) | Test pyramid, TDD, mocking |
+| 02 | [Amaliyotda Testing](./testing/02-testing-in-practice.md) | Jest/Vitest, RTL, Playwright |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
