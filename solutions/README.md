@@ -11,6 +11,7 @@ Bu papka har bir mavzu oxiridagi **Masalalar** bo'limidagi mashqlarning to'liq y
 | Frontend | [`solutions/frontend/`](./frontend/) |
 | Backend | [`solutions/backend/`](./backend/) |
 | Database | [`solutions/databases/`](./databases/) |
+| Networking | [`solutions/networking/`](./networking/) |
 
 Har bir yechim fayli o'ziga mos mavzu fayli bilan bir xil nomda (masalan, `frontend/03-javascript.md` masalalarining yechimi → `solutions/frontend/03-javascript.md`).
 

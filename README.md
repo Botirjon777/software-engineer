@@ -68,6 +68,20 @@ Ma'lumotlarni saqlash — relational va NoSQL.
 | 06 | [NoSQL](./databases/06-nosql.md) | Document, key-value, column, graph |
 | 07 | [Database Design](./databases/07-database-design.md) | Normalizatsiya, modeling, CAP, sharding |
 
+### 4. [Networking](./networking/README.md)
+Internet qanday ishlaydi — protokollar, infratuzilma va performance.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Tarmoq Asoslari](./networking/01-network-fundamentals.md) | OSI/TCP-IP model, packet, encapsulation |
+| 02 | [TCP va UDP](./networking/02-tcp-udp.md) | Handshake, reliability, congestion, UDP |
+| 03 | [IP, DNS, Port, Socket](./networking/03-ip-dns-sockets.md) | IP/subnet/NAT, DNS resolution, socket |
+| 04 | [TLS va HTTPS](./networking/04-tls-https.md) | Handshake, sertifikat, shifrlash |
+| 05 | [Proxy va Load Balancing](./networking/05-proxy-load-balancing.md) | Forward/reverse proxy, LB, CDN, gateway |
+| 06 | [Latency va Performance](./networking/06-latency-performance.md) | Latency vs throughput, optimizatsiya, tail latency |
+| 07 | [Real-time Protokollar](./networking/07-realtime-streaming.md) | WebSocket, SSE, gRPC, HTTP/2, QUIC |
+| 08 | [MCP](./networking/08-mcp.md) | Model Context Protocol, AI agent integratsiyasi |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
@@ -75,7 +89,8 @@ Ma'lumotlarni saqlash — relational va NoSQL.
 1. **Avval asoslar**: JS → TS → HTML → CSS.
 2. **Yo'nalish tanlang**: Frontend (React) yoki Backend (Node) — yoki ikkalasi.
 3. **Database parallel**: SQL asoslarini erta, advanced + design keyinroq.
-4. **System design oxirida**: hammasini bog'laydi.
+4. **Networking parallel**: backend bilan birga TCP/DNS/proxy/latency.
+5. **System design oxirida**: hammasini bog'laydi.
 
 ---
 
