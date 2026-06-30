@@ -138,6 +138,31 @@ Kodni ishonchli qilish.
 | 01 | [Testing Asoslari](./testing/01-testing-fundamentals.md) | Test pyramid, TDD, mocking |
 | 02 | [Amaliyotda Testing](./testing/02-testing-in-practice.md) | Jest/Vitest, RTL, Playwright |
 
+### 10. [OOP, Design Patterns va Clean Code](./oop-patterns/README.md)
+Obyektga yo'naltirilgan dizayn va toza kod.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [OOP va SOLID](./oop-patterns/01-oop-solid.md) | Encapsulation/inheritance/polymorphism, SOLID |
+| 02 | [Design Patterns](./oop-patterns/02-design-patterns.md) | Creational/structural/behavioral GoF patternlar |
+| 03 | [Clean Code](./oop-patterns/03-clean-code.md) | DRY/KISS/YAGNI, refactoring, code smell |
+
+### 11. [System Design](./system-design/README.md)
+Distributed systems va case study'lar.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Asoslar](./system-design/01-fundamentals.md) | Estimation, building blocks, consistency |
+| 02 | [Case Study'lar](./system-design/02-case-studies.md) | Twitter, Uber, chat, news feed loyihalash |
+
+### 12. [Behavioral va HR Intervyu](./behavioral/README.md)
+Intervyuni o'tish ko'nikmalari.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Behavioral Savollar (STAR)](./behavioral/01-behavioral-star.md) | STAR metodi, keng savollar |
+| 02 | [Intervyu Jarayoni](./behavioral/02-interview-process.md) | Yondashuv, kommunikatsiya, muzokara |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
