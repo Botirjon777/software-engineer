@@ -82,6 +82,16 @@ Internet qanday ishlaydi — protokollar, infratuzilma va performance.
 | 07 | [Real-time Protokollar](./networking/07-realtime-streaming.md) | WebSocket, SSE, gRPC, HTTP/2, QUIC |
 | 08 | [MCP](./networking/08-mcp.md) | Model Context Protocol, AI agent integratsiyasi |
 
+### 5. [Encoding va Hashing](./encoding/README.md)
+Ma'lumotni ifodalash va o'zgartirish — kodlash, sanoq sistemalari, hashing.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Character Encoding](./encoding/01-character-encoding.md) | ASCII, Unicode, UTF-8/16, code point, byte vs char |
+| 02 | [Sanoq Sistemalari](./encoding/02-number-systems.md) | Binary, hex, octal, bitwise, two's complement |
+| 03 | [Data Encoding](./encoding/03-data-encoding.md) | Base64, hex, URL encoding, encoding vs encryption |
+| 04 | [Hashing](./encoding/04-hashing.md) | Hash funksiyalar, SHA, HMAC, password hashing, collision |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
