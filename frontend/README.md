@@ -15,6 +15,7 @@ Brauzerda ishlaydigan hamma narsa — oddiy HTML'dan katta React arxitekturasiga
 | 07 | [React Performance](./07-react-performance.md) | ⭐⭐⭐ Murakkab |
 | 08 | [React Arxitektura](./08-react-architecture.md) | ⭐⭐⭐⭐ Senior |
 | 09 | [Frontend System Design](./09-frontend-system-design.md) | ⭐⭐⭐⭐ Senior |
+| 10 | [Next.js](./10-nextjs.md) | ⭐⭐⭐ Murakkab |
 
 ## Intervyuda nimaga e'tibor beriladi
 

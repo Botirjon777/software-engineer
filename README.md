@@ -38,6 +38,7 @@ Brauzerda ishlaydigan hamma narsa.
 | 07 | [React Performance](./frontend/07-react-performance.md) | Memoization, re-render, profiling, code splitting |
 | 08 | [React Arxitektura](./frontend/08-react-architecture.md) | State management, struktura, patternlar |
 | 09 | [Frontend System Design](./frontend/09-frontend-system-design.md) | Katta frontend ilovalarni loyihalash |
+| 10 | [Next.js](./frontend/10-nextjs.md) | CSR/SSR/SSG/ISR, App Router, React'dan afzalliklari |
 
 ### 2. [Backend](./backend/README.md)
 Serverda ishlaydigan qism — Node.js orqali.
@@ -203,6 +204,14 @@ Loyihani internetga chiqarish — amaliy qo'llanma.
 | 07 | [PHP Deploy](./deployment/07-php-deploy.md) | Shared hosting, LEMP, Laravel |
 | 08 | [VPS'da Ma'lumotlar Bazasi](./deployment/08-database-on-vps.md) | Postgres/MySQL o'rnatish, backup |
 | 09 | [Log, Monitoring, Security](./deployment/09-logs-monitoring-security.md) | journalctl, PM2 log, firewall, fail2ban |
+
+### 16. [Email](./email/README.md)
+Email jo'natish, template va kampaniyalar.
+
+| # | Mavzu | Nima o'rganasiz |
+|---|-------|-----------------|
+| 01 | [Email Asoslari va Jo'natish](./email/01-email-fundamentals.md) | SMTP, service'lar, SPF/DKIM/DMARC, deliverability |
+| 02 | [Template va Kampaniyalar](./email/02-templates-campaigns.md) | HTML email, MJML/React Email, kampaniya, metrikalar |
 
 ---
 
