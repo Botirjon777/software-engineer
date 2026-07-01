@@ -189,6 +189,21 @@ Amaliyot orqali o'rganish — daraja bo'yicha qiziq va maqsadli loyihalar.
 | 06 | [DevOps, Data va AI](./projects/06-devops-data-ai-projects.md) | Automation, data, LLM/AI |
 | 07 | [DSA Masalalar](./projects/07-dsa-problems.md) | LeetCode/NeetCode linklari, pattern bo'yicha |
 
+### 15. [Deployment](./deployment/README.md)
+Loyihani internetga chiqarish — amaliy qo'llanma.
+
+| # | Mavzu | Nima o'rganasiz |
+|---|-------|-----------------|
+| 01 | [Frontend Deploy](./deployment/01-frontend-deploy.md) | Static/React/Next → Vercel/Netlify/Pages |
+| 02 | [Domain va DNS](./deployment/02-domains-dns-ssl.md) | Domen olish, DNS, ulash, SSL |
+| 03 | [SEO](./deployment/03-seo.md) | Meta, OG, sitemap, robots, Core Web Vitals |
+| 04 | [Backend/API Deploy + CORS](./deployment/04-backend-deploy.md) | Railway/Render/Fly.io, CORS |
+| 05 | [VPS Asoslari](./deployment/05-vps-fundamentals.md) | SSH, boshqarish, security |
+| 06 | [VPS: Node + Nginx + PM2](./deployment/06-vps-nodejs-nginx-pm2.md) | Reverse proxy, PM2, SSL, log |
+| 07 | [PHP Deploy](./deployment/07-php-deploy.md) | Shared hosting, LEMP, Laravel |
+| 08 | [VPS'da Ma'lumotlar Bazasi](./deployment/08-database-on-vps.md) | Postgres/MySQL o'rnatish, backup |
+| 09 | [Log, Monitoring, Security](./deployment/09-logs-monitoring-security.md) | journalctl, PM2 log, firewall, fail2ban |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
