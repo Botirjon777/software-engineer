@@ -22,6 +22,10 @@ Dasturchilar uchun intervyuga tayyorgarlik bo'yicha to'liq bilimlar bazasi — *
 
 ---
 
+## 📖 Lug'at (Terminlar)
+
+Ingliz tilidagi texnik terminlarning o'zbekcha ma'nolari — to'g'ridan-to'g'ri tarjima emas, **tushunish uchun izoh** bilan. Har bir bo'limning o'z lug'ati bor (`<bo'lim>/LUGAT.md`), hammasi birlashtirilgan umumiy lug'at esa: **[LUGAT.md](./LUGAT.md)**.
+
 ## Dastur (Curriculum)
 
 ### 1. [Frontend](./frontend/README.md)
