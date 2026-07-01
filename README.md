@@ -181,6 +181,11 @@ Distributed systems va case study'lar.
 |---|-------|--------------------|
 | 01 | [Asoslar](./system-design/01-fundamentals.md) | Estimation, building blocks, consistency |
 | 02 | [Case Study'lar](./system-design/02-case-studies.md) | Twitter, Uber, chat, news feed loyihalash |
+| 03 | [Scalability va Reliability](./system-design/03-scalability-reliability.md) | Fault tolerance, HA, resilience patterns |
+| 04 | [Distributed Systems](./system-design/04-distributed-systems.md) | Consensus, replication, consistency, CRDT |
+| 05 | [Arxitektura Blueprint/Freymvork](./system-design/05-architecture-blueprints.md) | Har qanday tizimni noldan loyihalash |
+| 06 | [Hosting va Infratuzilma](./system-design/06-hosting-infrastructure.md) | Cloud, compute/storage, CDN, IaC, multi-region |
+| 07 | [Production Misollari](./system-design/07-production-examples.md) | Netflix, Uber, WhatsApp real arxitekturasi |
 
 ### 12. [Behavioral va HR Intervyu](./behavioral/README.md)
 Intervyuni o'tish ko'nikmalari.

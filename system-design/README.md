@@ -10,6 +10,11 @@ Katta, masshtablanadigan tizimlarni loyihalash: distributed systems asoslari, bu
 |---|-------|--------|
 | 01 | [System Design Asoslari](./01-fundamentals.md) | ⭐⭐⭐ Murakkab |
 | 02 | [Case Study'lar (Twitter, Uber, Chat...)](./02-case-studies.md) | ⭐⭐⭐⭐ Senior |
+| 03 | [Scalability va Reliability](./03-scalability-reliability.md) | ⭐⭐⭐ Murakkab |
+| 04 | [Distributed Systems](./04-distributed-systems.md) | ⭐⭐⭐⭐ Senior |
+| 05 | [Arxitektura Blueprint va Freymvorklar](./05-architecture-blueprints.md) | ⭐⭐⭐⭐ Senior |
+| 06 | [Hosting va Infratuzilma](./06-hosting-infrastructure.md) | ⭐⭐⭐ Murakkab |
+| 07 | [Production Tizim Misollari](./07-production-examples.md) | ⭐⭐⭐⭐ Senior |
 
 ## Intervyuda nimaga e'tibor beriladi
 
