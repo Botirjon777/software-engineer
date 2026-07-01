@@ -163,6 +163,19 @@ Intervyuni o'tish ko'nikmalari.
 | 01 | [Behavioral Savollar (STAR)](./behavioral/01-behavioral-star.md) | STAR metodi, keng savollar |
 | 02 | [Intervyu Jarayoni](./behavioral/02-interview-process.md) | Yondashuv, kommunikatsiya, muzokara |
 
+### 13. [Hardware — Kompyuter Apparati](./hardware/README.md)
+CPU, GPU, xotira va komponentlar qanday ishlaydi va muloqot qiladi.
+
+| # | Mavzu | Nimani o'rganasiz |
+|---|-------|--------------------|
+| 01 | [Kompyuter Arxitekturasi](./hardware/01-computer-architecture.md) | Von Neumann, fetch-decode-execute |
+| 02 | [CPU](./hardware/02-cpu.md) | Core, register, ALU, cache, pipelining |
+| 03 | [Xotira Ierarxiyasi](./hardware/03-memory-hierarchy.md) | Register→cache→RAM→disk, locality |
+| 04 | [Thread'lar va Multicore](./hardware/04-threads-multicore.md) | Core vs thread, hyperthreading, SMT |
+| 05 | [GPU](./hardware/05-gpu.md) | SIMD/SIMT, CUDA, CPU vs GPU |
+| 06 | [Bus'lar va Muloqot](./hardware/06-buses-communication.md) | Bus, PCIe, DMA, interrupt, I/O |
+| 07 | [Storage](./hardware/07-storage-devices.md) | HDD, SSD, NVMe qanday ishlaydi |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
