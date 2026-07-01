@@ -22,6 +22,7 @@ Bu papka har bir mavzu oxiridagi **Masalalar** bo'limidagi mashqlarning to'liq y
 | Behavioral | [`solutions/behavioral/`](./behavioral/) |
 | Hardware | [`solutions/hardware/`](./hardware/) |
 | Email | [`solutions/email/`](./email/) |
+| Remote Access | [`solutions/remote-access/`](./remote-access/) |
 
 Har bir yechim fayli o'ziga mos mavzu fayli bilan bir xil nomda (masalan, `frontend/03-javascript.md` masalalarining yechimi → `solutions/frontend/03-javascript.md`).
 

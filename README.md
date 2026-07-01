@@ -244,6 +244,15 @@ Email jo'natish, template va kampaniyalar.
 | 01 | [Email Asoslari va Jo'natish](./email/01-email-fundamentals.md) | SMTP, service'lar, SPF/DKIM/DMARC, deliverability |
 | 02 | [Template va Kampaniyalar](./email/02-templates-campaigns.md) | HTML email, MJML/React Email, kampaniya, metrikalar |
 
+### 17. [Remote Access va Tunneling](./remote-access/README.md)
+Serverga masofadan xavfsiz ulanish va tunneling.
+
+| # | Mavzu | Nima o'rganasiz |
+|---|-------|-----------------|
+| 01 | [SSH va Tunneling](./remote-access/01-ssh-tunneling.md) | Port forwarding, SOCKS, jump host, reverse tunnel, ngrok |
+| 02 | [VPN](./remote-access/02-vpn.md) | WireGuard/OpenVPN/IPSec, split tunneling, o'z VPN |
+| 03 | [Remote Desktop](./remote-access/03-remote-desktop.md) | RDP, VNC, X2Go, NoMachine |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
