@@ -176,6 +176,19 @@ CPU, GPU, xotira va komponentlar qanday ishlaydi va muloqot qiladi.
 | 06 | [Bus'lar va Muloqot](./hardware/06-buses-communication.md) | Bus, PCIe, DMA, interrupt, I/O |
 | 07 | [Storage](./hardware/07-storage-devices.md) | HDD, SSD, NVMe qanday ishlaydi |
 
+### 14. [Loyihalar (Projects)](./projects/README.md)
+Amaliyot orqali o'rganish — daraja bo'yicha qiziq va maqsadli loyihalar.
+
+| # | Yo'nalish | Tavsif |
+|---|-----------|--------|
+| 01 | [Frontend](./projects/01-frontend-projects.md) | UI, brauzer API, state, performance |
+| 02 | [Backend](./projects/02-backend-projects.md) | API, DB, auth, real-time |
+| 03 | [Fullstack](./projects/03-fullstack-projects.md) | To'liq mahsulotlar |
+| 04 | [Concurrency & Threads](./projects/04-concurrency-projects.md) | Thread, parallel ishlash konsepsiyasi |
+| 05 | [Build Your Own X](./projects/05-build-your-own-x.md) | O'z shell/server/DB'ingiz — past daraja |
+| 06 | [DevOps, Data va AI](./projects/06-devops-data-ai-projects.md) | Automation, data, LLM/AI |
+| 07 | [DSA Masalalar](./projects/07-dsa-problems.md) | LeetCode/NeetCode linklari, pattern bo'yicha |
+
 ---
 
 ## Tavsiya etilgan o'rganish tartibi
