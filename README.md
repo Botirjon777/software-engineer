@@ -6,6 +6,28 @@ Dasturchilar uchun intervyuga tayyorgarlik bo'yicha to'liq bilimlar bazasi — *
 
 > Tushuntirishlar o'zbek tilida; kod, kalit so'zlar va standart texnik atamalar (closure, event loop, JOIN va h.k.) ingliz tilida — chunki real intervyularda aynan inglizcha atamalar ishlatiladi.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/til-O'zbek-1EB53A?style=flat-square" alt="til" />
+  <img src="https://img.shields.io/badge/litsenziya-MIT-blue?style=flat-square" alt="litsenziya" />
+  <img src="https://img.shields.io/badge/PR-welcome-brightgreen?style=flat-square" alt="PR welcome" />
+  <img src="https://img.shields.io/badge/bo'limlar-16-orange?style=flat-square" alt="bo'limlar" />
+</p>
+
+---
+
+## Bu repo nima? (About)
+
+Bu — **o'zbek tilidagi ochiq (open source) dasturchilar bilimlar bazasi va intervyuga tayyorgarlik qo'llanmasi**. Maqsad — o'zbek yoshlariga sifatli, tizimli va bepul ta'lim resursini yetkazish, chunki bunday chuqur materiallar ko'pincha faqat ingliz tilida bo'ladi.
+
+**Kimga mo'ljallangan:**
+- Ishga kirishga tayyorlanayotgan junior/mid dasturchilar.
+- O'z bilimini tizimlashtirmoqchi bo'lganlar.
+- Frontend, Backend, Database, DevOps yoki System Design'ni chuqur o'rganmoqchi bo'lganlar.
+
+**Nima bor:** 16 ta bo'lim — nazariya + intervyu savol-javoblari + yechimsiz masalalar (alohida yechimlar bilan) + amaliy loyiha g'oyalari + deployment qo'llanmalari + ~875 terminlik lug'at.
+
+**Ochiq manba (open source):** bu repo hammaga bepul va ochiq. Uni o'qishingiz, ko'chirishingiz, tarqatishingiz va yaxshilashingiz mumkin — [MIT litsenziyasi](./LICENSE) asosida. Xato topsangiz yoki qo'shimcha qilmoqchi bo'lsangiz — [hissa qo'shing](#hissa-qoshish-contributing)!
+
 ---
 
 ## Bu repodan qanday foydalanish kerak
@@ -233,4 +255,27 @@ Email jo'natish, template va kampaniyalar.
 
 Har bir mavzu oxirida **Masalalar** bo'limi bor (yechimlarsiz). To'liq yechimlar [`solutions/`](./solutions/) papkasida — avval o'zingiz yechib ko'ring, keyin yechimlardan tekshiring.
 
-_Bu — yashayotgan hujjat. Tuzatish va qo'shimchalar uchun ochiq._
+---
+
+## Hissa qo'shish (Contributing)
+
+Bu ochiq loyiha — **hissangiz juda qadrli!** Qanday yordam berishingiz mumkin:
+
+- 🐛 **Xato topsangiz** (texnik xato, terish xatosi, noto'g'ri havola) — Issue oching yoki Pull Request yuboring.
+- ✍️ **Mavzu qo'shsangiz** yoki mavjudini yaxshilasangiz — bir xil formatga rioya qiling (💡 Tushuncha / ❓ Savol / ✅ Javob / ⚠️ Ehtiyot bo'l + Masalalar).
+- 🌐 **Tarjima/til**: tushuntirish o'zbekcha, kod va texnik atamalar inglizcha.
+- ⭐ **Foydali bo'lsa** — repoga **star** bering va do'stlaringizga ulashing.
+
+Qanday qilish:
+1. Reponi **fork** qiling.
+2. Yangi **branch** oching (`git checkout -b mavzu/qoshimcha`).
+3. O'zgartirishingizni **commit** qiling.
+4. **Pull Request** yuboring — nima va nega o'zgartirganingizni yozing.
+
+## Litsenziya (License)
+
+Bu loyiha [MIT litsenziyasi](./LICENSE) asosida tarqatiladi — bepul foydalanishingiz, ko'chirishingiz, o'zgartirishingiz va tarqatishingiz mumkin. Faqat asl mualliflikni saqlab qoling.
+
+---
+
+_Bu — yashayotgan hujjat. O'zbek dasturchilari uchun ❤️ bilan yaratilgan. Tuzatish va qo'shimchalar uchun ochiq._
